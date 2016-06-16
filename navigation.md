@@ -14,4 +14,3 @@
 
 [gimmick:theme](yeti)
 [gimmick: math]()
-[gimmick:Disqus](zlongust)
