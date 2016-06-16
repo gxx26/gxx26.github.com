@@ -43,13 +43,13 @@ A ![Resize icon](http://resizesafari.com/favicon.ico "Title") reference style im
 
 Inline code are surround by `backtick` key. To create a block code:
 
-    Indent <span class="hljs-keyword">each</span> <span class="hljs-built_in">line</span> <span class="hljs-keyword">by</span> <span class="hljs-keyword">at</span> least <span class="hljs-number">1</span> <span class="hljs-constant">tab</span>, <span class="hljs-operator">or</span> <span class="hljs-number">4</span> spaces.
-    var Mou = exactlyTheAppIwant; 
+    Indent <span <span class="hljs-keyword">class</span>=<span class="hljs-string">"hljs-keyword"</span>>each</span> <span <span class="hljs-keyword">class</span>=<span class="hljs-string">"hljs-built_in"</span>>line</span> <span <span class="hljs-keyword">class</span>=<span class="hljs-string">"hljs-keyword"</span>>by</span> <span <span class="hljs-keyword">class</span>=<span class="hljs-string">"hljs-keyword"</span>>at</span> least <span <span class="hljs-keyword">class</span>=<span class="hljs-string">"hljs-number"</span>><span class="hljs-number">1</span></span> <span <span class="hljs-keyword">class</span>=<span class="hljs-string">"hljs-constant"</span>>tab</span>, <span <span class="hljs-keyword">class</span>=<span class="hljs-string">"hljs-operator"</span>>or</span> <span <span class="hljs-keyword">class</span>=<span class="hljs-string">"hljs-number"</span>><span class="hljs-number">4</span></span> spaces.
+    <span class="hljs-keyword">var</span> Mou = exactlyTheAppIwant; 
     `</pre>
 
-    #### Ordered Lists
+    <span class="hljs-preprocessor">#### Ordered Lists</span>
 
-    Ordered lists are created using "1." + Space:
+    Ordered lists are created <span class="hljs-keyword">using</span> <span class="hljs-string">"1."</span> + Space:
 
 1.  Ordered list item
 2.  Ordered list item
@@ -66,24 +66,25 @@ Inline code are surround by `backtick` key. To create a block code:
     Or using "-" + Space:
 
 *   Unordered list item
+
 *   Unordered list item
 *   Unordered list item
 
     #### Hard Linebreak
 
     End a line with two or more spaces will create a hard linebreak, called `<br />` in HTML. ( Control + Return )
-    Above line ended with 2 spaces.
-    Hello
+Above line ended with 2 spaces.
+Hello
 
     #### Horizontal Rules
 
     Three or more asterisks or dashes:
 
-    * * *
+        * * *
 
-    * * *
+        * * *
 
-    * * *
+        * * *
 
     #### Headers
 
@@ -121,89 +122,89 @@ Inline code are surround by `backtick` key. To create a block code:
 
     Wrap with 2 tilde characters:
 
-    <del>Strikethrough</del>
+    &lt;del&gt;Strikethrough&lt;/del&gt;
 
     #### Fenced Code Blocks
 
     Start with a line containing 3 or more backticks, and ends with the first line with the same number of backticks:
 
-    <pre>`Fenced code blocks are like Stardard Markdown’s regular code
-    blocks, except <span class="hljs-keyword">that</span> they’re <span class="hljs-keyword">not</span> indented <span class="hljs-keyword">and</span> instead rely <span class="hljs-function_start"><span class="hljs-keyword">on</span></span>
-    a start <span class="hljs-keyword">and</span> <span class="hljs-keyword">end</span> fence lines <span class="hljs-keyword">to</span> delimit <span class="hljs-keyword">the</span> code block.
+    &lt;pre&gt;`Fenced code blocks are like Stardard Markdown’s regular code
+blocks, except &lt;span class="hljs-keyword"&gt;that&lt;/span&gt; they’re &lt;span class="hljs-keyword"&gt;not&lt;/span&gt; indented &lt;span class="hljs-keyword"&gt;and&lt;/span&gt; instead rely &lt;span class="hljs-function_start"&gt;&lt;span class="hljs-keyword"&gt;on&lt;/span&gt;&lt;/span&gt;
+a start &lt;span class="hljs-keyword"&gt;and&lt;/span&gt; &lt;span class="hljs-keyword"&gt;end&lt;/span&gt; fence lines &lt;span class="hljs-keyword"&gt;to&lt;/span&gt; delimit &lt;span class="hljs-keyword"&gt;the&lt;/span&gt; code block.
 
 #### Tables
 
 A simple table looks like this:
 
-<table>
-<thead>
-<tr>
-<th>First Header</th>
-<th>Second Header</th>
-<th>Third Header</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Content Cell</td>
-<td>Content Cell</td>
-<td>Content Cell</td>
-</tr>
-<tr>
-<td>Content Cell</td>
-<td>Content Cell</td>
-<td>Content Cell</td>
-</tr>
-</tbody>
-</table>
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;First Header&lt;/th&gt;
+&lt;th&gt;Second Header&lt;/th&gt;
+&lt;th&gt;Third Header&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Content Cell&lt;/td&gt;
+&lt;td&gt;Content Cell&lt;/td&gt;
+&lt;td&gt;Content Cell&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Content Cell&lt;/td&gt;
+&lt;td&gt;Content Cell&lt;/td&gt;
+&lt;td&gt;Content Cell&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
 
 If you wish, you can add a leading and tailing pipe to each line of the table:
 
-<table>
-<thead>
-<tr>
-<th>First Header</th>
-<th>Second Header</th>
-<th>Third Header</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Content Cell</td>
-<td>Content Cell</td>
-<td>Content Cell</td>
-</tr>
-<tr>
-<td>Content Cell</td>
-<td>Content Cell</td>
-<td>Content Cell</td>
-</tr>
-</tbody>
-</table>
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;First Header&lt;/th&gt;
+&lt;th&gt;Second Header&lt;/th&gt;
+&lt;th&gt;Third Header&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Content Cell&lt;/td&gt;
+&lt;td&gt;Content Cell&lt;/td&gt;
+&lt;td&gt;Content Cell&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Content Cell&lt;/td&gt;
+&lt;td&gt;Content Cell&lt;/td&gt;
+&lt;td&gt;Content Cell&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
 
 Specify alignment for each column by adding colons to separator lines:
 
-<table>
-<thead>
-<tr>
-<th style="text-align:left">First Header</th>
-<th style="text-align:center">Second Header</th>
-<th style="text-align:right">Third Header</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align:left">Left</td>
-<td style="text-align:center">Center</td>
-<td style="text-align:right">Right</td>
-</tr>
-<tr>
-<td style="text-align:left">Left</td>
-<td style="text-align:center">Center</td>
-<td style="text-align:right">Right</td>
-</tr>
-</tbody>
-</table>
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style="text-align:left"&gt;First Header&lt;/th&gt;
+&lt;th style="text-align:center"&gt;Second Header&lt;/th&gt;
+&lt;th style="text-align:right"&gt;Third Header&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;Left&lt;/td&gt;
+&lt;td style="text-align:center"&gt;Center&lt;/td&gt;
+&lt;td style="text-align:right"&gt;Right&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;Left&lt;/td&gt;
+&lt;td style="text-align:center"&gt;Center&lt;/td&gt;
+&lt;td style="text-align:right"&gt;Right&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
 
 ### Shortcuts
 

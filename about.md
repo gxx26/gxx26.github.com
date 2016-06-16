@@ -24,17 +24,17 @@ Note: The website you are currently viewing is realized with MDwiki and hosted o
 
 Just drop the `mdwiki.html` available from [the download page](download.md) along with your markdown files on a webspace somewhere. You can pass any url (relative to the `mdwiki.html` file) to mdwiki after the hashbang `#!`:
 
-    <span class="hljs-label">http:</span>//www.example.com/mdwiki.html<span class="hljs-preprocessor">#!myfile.md</span>
+    <span class=<span class="hljs-string">"hljs-label"</span>><span class="hljs-keyword">http</span>:</span<span class="hljs-comment">>//www.example.com/mdwiki.html<span class="hljs-preprocessor">#!myfile.md</span></span>
     `</pre>
 
-    If you rename the `mdwiki.html` into `index.html`, you can omit the filename on most webservers:
+    If you <span class="hljs-built_in">rename</span> <span class="hljs-operator">the</span> `mdwiki.html` <span class="hljs-keyword">into</span> `index.html`, you can omit <span class="hljs-operator">the</span> filename <span class="hljs-command"><span class="hljs-keyword">on</span> <span class="hljs-title">most</span> <span class="hljs-title">webservers</span>:</span>
 
-    <pre>`<span class="hljs-label">http:</span>//www.example.com/<span class="hljs-preprocessor">#!myfile.md</span>
+    <pre>`<span class=<span class="hljs-string">"hljs-label"</span>><span class="hljs-keyword">http</span>:</span<span class="hljs-comment">>//www.example.com/<span class="hljs-preprocessor">#!myfile.md</span></span>
     `</pre>
 
-    MDwiki will load a file called `index.md` from the same directory as the index.html by default, so if you use an `index.md` file as entry point, all you have to do is enter your domain name:
+    MDwiki will <span class="hljs-built_in">load</span> <span class="hljs-operator">a</span> <span class="hljs-built_in">file</span> called `index.md` <span class="hljs-built_in">from</span> <span class="hljs-operator">the</span> same <span class="hljs-built_in">directory</span> <span class="hljs-keyword">as</span> <span class="hljs-operator">the</span> index.html <span class="hljs-keyword">by</span> default, so <span class="hljs-keyword">if</span> you use <span class="hljs-operator">an</span> `index.md` <span class="hljs-built_in">file</span> <span class="hljs-keyword">as</span> entry point, all you have <span class="hljs-built_in">to</span> <span class="hljs-built_in">do</span> is enter your domain name:
 
-    <pre>`<span class="hljs-string">http:</span><span class="hljs-comment">//example.com/</span>
+    <pre>`<span class=<span class="hljs-string">"hljs-string"</span>><span class="hljs-keyword">http</span>:</span><span class=<span class="hljs-string">"hljs-comment"</span><span class="hljs-comment">>//example.com/</span></span>
 
 Note: There are lots more features over regular Markdown, check out the [quickstart tutorial](quickstart.md).
 
