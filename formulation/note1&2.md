@@ -1,4 +1,4 @@
-## 第一讲笔记
+## 第1&amp;2讲笔记
 
 我们发现英文是由三种算法框架构成的：
 
@@ -7,7 +7,7 @@
 3.  从句
 只有这三种结构的不同，他们内部的排序在中英文中是一样的
 
-例句：an element 1[in national economic life] 2[representing the irresponsible wealth] 3[detached] 4[from the land and the duties] 5[of the land owners] 6[and almost equally detached] 7[from the responsible management] 8[of commercial business conduct.]
+**例句**：an element 1[in national economic life] 2[representing the irresponsible wealth] 3[detached] 4[from the land and the duties] 5[of the land owners] 6[and almost equally detached] 7[from the responsible management] 8[of commercial business conduct.]
 
 句子成分就是n+12345678
 
@@ -17,13 +17,11 @@
 2.  并列不变序--and连接的前后排序不变
 翻译为中文就是543+876+21+n
 
-## 第二讲笔记
-
-非限定性定语从句和限定性定语从句
+**非限定性定语从句和限定性定语从句 **
 I love my father, who is good to me.（用逗号隔开）
 I love girls who have long hair.
 
-on,off,to,in的区别：
+**on,off,to,in的区别**：
 on 接触
 off 脱离
 to 距离跨越

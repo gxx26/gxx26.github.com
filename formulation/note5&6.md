@@ -1,15 +1,18 @@
 ## 第5&amp;6讲笔记
 
-** 三．“废话”的定位 **
+### 三．“废话”的定位
+
 “废话”分为定语和状语
 
 **英文逻辑基本表达式：(状1) 主 (定1) 谓 (状2) [宾] (定2/状1)**    
 
-Remark:1）其中可以用“，；——”等符号引入插入语，即状2，例如in my opinion   2）状2可以理解为小状语  
+Remarks:
+1）其中可以用“，；——”等符号引入插入语，即状2，例如in my opinion  2）状2可以理解为小状语  
 
 **例句**：(状1)[Although not so world widely accepted,] 主[people] (定1)[1) who are emotionally weak 2) in daily business] 谓[are] (状2)[often] [宾][losers] (定2)[1) who are not able to fulfill any fruitful achievements 2) in their lifetime 3) that they endure.]
 
-**四．定状的汉化**
+### 四．定状的汉化
+
 预备工作：英文是由三种结构构成的：                           
 
 1.  介词短语 in the room
