@@ -24,7 +24,7 @@ Vigor活力，精力
 Viv--- 强调生命力，活力
     Vivid精彩的，活灵活现的
     Survive幸存
-    Revive复兴  
+    Revive复兴    
 
 H：向上，高处--
    High高的
@@ -32,7 +32,7 @@ H：向上，高处--
       Head脑袋
       Heaven，Hell，Hut，Hall，House，Home高耸的建筑物
       Hab— Habit,  in habit
-      Hus--  高耸的建筑物   
+      Hus--  高耸的建筑物     
 
 -- band：木头，木板
       Bar酒吧
