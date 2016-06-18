@@ -19,5 +19,4 @@
 主Science 谓developed 宾as an autonomous method [as加宾语] 定 1)of intellectual inquiry 2)that successfully disengaged itself 3)from the social constrains 4)of organized religion 5)and from the political constrains 6)of the centralized modern authority.
     **(43)(65)21  ** 
 
-    主<span class="hljs-type">The</span> <span class="hljs-keyword">method</span> 定<span class="hljs-keyword">of</span> scientific investigation 谓<span class="hljs-keyword">is</span> 状nothing but 宾the expression 定 <span class="hljs-number">1</span>)<span class="hljs-keyword">of</span> the necessary mode <span class="hljs-number">2</span>)<span class="hljs-keyword">of</span> working <span class="hljs-number">3</span>)<span class="hljs-keyword">of</span> the human mind.
-    
+   主The method 定of scientific investigation 谓is 状nothing but 宾the expression 定 1)of the necessary mode 2)of working 3)of the human mind.
