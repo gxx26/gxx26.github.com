@@ -9,7 +9,7 @@
 *   [Chapter 5 and 6](formulation/note5&amp;6.md)
 *   [Chapter 7 and 8](formulation/note7&amp;8.md)
 *   [Chapter 9 and 10](formulation/note9&amp;10.md)
-*   [Chapter 11 and 12](formulation/note9&amp;10.md)
+*   [Chapter 11 and 12](formulation/note11&amp;12.md)
 
 [自然拼读]()
 
