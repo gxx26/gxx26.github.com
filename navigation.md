@@ -11,6 +11,7 @@
 *   [Chapter 9 and 10](formulation/note9&amp;10.md)
 *   [Chapter 11 and 12](formulation/note11&amp;12.md)
 *   [Chapter 13 and 14](formulation/note13&14.md)
+*   [Chapter 15 and 16](formulation/note15&16.md)
 
 [自然拼读]()
 
