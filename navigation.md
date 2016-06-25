@@ -15,6 +15,7 @@
 *   [Chapter 17 and 18](formulation/note17&18.md)  
 *   [Chapter 19， 20 and 21](formulation/note19&20&21.md)
 *   [心得体会](formulation/心得.md)
+*   [色彩拼注法](formulation/Colorful Equations with MathJax.md)
 
 [自然拼读]()
 
