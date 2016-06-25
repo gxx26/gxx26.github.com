@@ -20,7 +20,9 @@ $$\textcolor{Purple}{X}_\textcolor{Green}{k}
 \textcolor{Magenta}{\frac{n}{N}}
 }.$$
 
-为了发现</font> <font color=Green>特定频率下的</font><font color=Purple>能量，</font> <font color=Green>以那个频率</font><font color=Orange>环绕一个圆</font> , <font color=Red>旋转</font><font color=Blue>你的信号，</font>并且<font color=Magenta>沿着该路径平均地分配一束点。
+为了发现</font> <font color=Green>特定频率下的</font><font color=Purple>能量，</font> <font color=Green>以那个频率</font><font color=Orange>环绕一个圆</font> , <font color=Red>旋转</font><font color=Blue>你的信号，</font>并且<font color=Magenta>沿着该路径平均地分配一束点。</font>
+
+**与机械化翻译公式的结合**：色彩标注法中运用色彩的不同来分析傅里叶公式的结构，更加清晰的表达了各个因子在公式中所处的位置及其作用。而在钟平老师的机械化翻译公式中，我们同样可以运用到这个方法来分析句子的成分。先运用不同的颜色来标示出句子中的主干--即主语，谓语及宾语；继而再用其余颜色来标示出定语及状语，可继续细分为介词短语，分词短语以及从句。用不同的颜色来强调出句子的成分，更便于细致分析，并运用机械化公式按照中英逻辑的不同，合理地翻译为中文。
 
 **Remark:**
 
