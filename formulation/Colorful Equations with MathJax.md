@@ -4,13 +4,11 @@
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
-# Colorful Equations with MathJax
-
-Stuart Riffle wrote up a great explanation of the Fourier transform. There are a number of great visualizations in his post, but the climax is his explanation of the inverse discrete Fourier transform formula:
-
+#色彩标注法
+Stuart Riffle给出了对傅里叶变换的一个绝佳解释。在他的公布内容中有许多精彩的图片，但是其中的顶点是他关于离散傅里叶逆变换公式的解释：
 ![Mou icon](figure1.png)
 
-What a brilliant representation! My first thought was that more equations should have such elegant explanations that focus on the comprehension of the reader. I’d love to be able to produce such clear explanations in this style:
+真是一个棒极了的展示！我的第一个想法是，更多的方程式应该有这样专注于读者理解的优雅的解释上。我希望能够以这种风格来给出如此清晰的解释：
 
 $$\textcolor{Purple}{X}_\textcolor{Green}{k}
 =\textcolor{Magenta}{\frac{1}{N}\sum_{n=0}^{N-1}}
@@ -20,7 +18,8 @@ $$\textcolor{Purple}{X}_\textcolor{Green}{k}
 \textcolor{Green}{k}
 \textcolor{Magenta}{\frac{n}{N}}
 }.$$
-**To find <font color=Purple>the energy at</font> <font color=Green>a particular frequency</font> , <font color=Red>spin</font> <font color=Blue>your signal</font> <font color=Orange>around a circle</font> <font color=Green>at that frequency</font>, and <font color=Magenta>average a bunch of points along that path</font>.**
+
+为了发现</font> <font color=Green>特定频率下的</font><font color=Purple>能量，</font> <font color=Green>以那个频率</font><font color=Orange>环绕一个圆</font> , <font color=Red>旋转</font><font color=Blue>你的信号，</font>并且<font color=Magenta>沿着该路径平均地分配一束点。
 
 **Remark:**
 
