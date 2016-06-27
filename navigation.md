@@ -16,8 +16,11 @@
 *   [Chapter 19， 20 and 21](formulation/note19&20&21.md)
 *   [心得体会](formulation/心得.md)
 *   [色彩标注法](formulation/Colorful Equations with MathJax.md)
+*   [每日翻译](formulation/每日翻译.md)
 
 [自然拼读]()
+
+*   [自然拼读法则](formulation/自然拼读.md)
 
 [格林法则]()
 
