@@ -24,6 +24,8 @@
 
 [格林法则]()
 
+*   [格林法则（词根词缀原理）](formulation/格林法则.md)
+
 [gimmick:theme](yeti)
 [gimmick: math]()
 
